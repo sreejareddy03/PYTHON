@@ -1,0 +1,8 @@
+def advbatch(n):
+    for i in range(1,20):
+        if i%n==0:
+            break
+        else: 
+            print("Akash")
+    print("Are you okay ??")
+advbatch(4)
